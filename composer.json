@@ -1,0 +1,23 @@
+{
+  "description": "SSO Client for application using laravel as framework",
+  "name": "bantenprov/laravel-sso-client",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/laravel-sso-client",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/laravel-sso-client,",
+    "issues": "https://github.com/bantenprov/laravel-sso-client/issues",
+    "wiki": "https://github.com/bantenprov/laravel-sso-client/wiki"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/laravel": "5.4.*"
+  }
+}
