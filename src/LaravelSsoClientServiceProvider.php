@@ -1,6 +1,6 @@
 <?php
 
-namespace Bantenprov\Providers;
+namespace Bantenprov\LaravelSsoClient;
 
 use Illuminate\Support\ServiceProvider;
 
