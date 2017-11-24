@@ -16,6 +16,11 @@
     "issues": "https://github.com/bantenprov/laravel-sso-client/issues",
     "wiki": "https://github.com/bantenprov/laravel-sso-client/wiki"
   },
+      "autoload": {
+      "psr-4": {
+        "Bantenprov\\LaravelSsoClient\\": "src"
+    }
+  },
   "require": {
     "php": ">=5.4.0",
     "laravel/laravel": "5.4.*"
