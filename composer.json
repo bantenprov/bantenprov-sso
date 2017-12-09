@@ -1,8 +1,8 @@
 {
   "description": "SSO Client for application using laravel as framework",
-  "name": "bantenprov/BantenprovSso",
+  "name": "bantenprov/bantenprov-sso",
   "type": "library",
-  "homepage": "https://github.com/bantenprov/BantenprovSso",
+  "homepage": "https://github.com/bantenprov/bantenprov-sso",
   "authors": [
     {
       "name": "bantenprov",
@@ -12,9 +12,9 @@
   ],
   "license": "MIT",
   "support": {
-    "source": "https://github.com/bantenprov/BantenprovSso,",
-    "issues": "https://github.com/bantenprov/BantenprovSso/issues",
-    "wiki": "https://github.com/bantenprov/BantenprovSso/wiki"
+    "source": "https://github.com/bantenprov/bantenprov-sso,",
+    "issues": "https://github.com/bantenprov/bantenprov-sso/issues",
+    "wiki": "https://github.com/bantenprov/bantenprov-sso/wiki"
   },
       "autoload": {
       "psr-4": {
