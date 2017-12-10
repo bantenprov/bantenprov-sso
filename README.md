@@ -1,5 +1,7 @@
 Welcome to BantentprovSso!
 ===================
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/build-status/master)
 
 
 Package ini adalah pakage yang di gunakan untuk proses development di beberapa aplikasi untuk kepetingan pemeritan provinsi banten, dimana konsep dari beberapa aplikasi yang akan di bangun adalah menggunakan single sign on (authentikasi terpusat).
