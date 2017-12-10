@@ -1,0 +1,12 @@
+{
+    "name": "bantenprov/bantenprov_sso",
+    "description": "package for sso in bantenprov project",
+    "type": "project",
+    "license": "MIT",
+      "autoload": {
+      "psr-4": {
+        "Bantenprov\\BantenprovSso\\": "src"
+    }
+    "minimum-stability": "dev",
+    "require": {}
+}

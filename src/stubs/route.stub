@@ -1,0 +1,7 @@
+Route::post('login', 'DevelController@post_login');
+Route::get('logout', 'DevelController@logout');
+Route::group(['prefix' => 'cas'], function(){
+	Route::post('check_logout', 'DevelController@check_logout');
+	Route::post('check_login', 'DevelController@check_login');
+	Route::get('logout', 'DevelController@cas_logout');
+});
