@@ -1,4 +1,4 @@
-Welcome to BantentprovSso!
+Welcome to BantenprovSso!
 ===================
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/bantenprov-sso/build-status/master)
@@ -102,7 +102,7 @@ Tambahkan code meta dan javascript berikut pada halaman login atau halaman yang 
 
 #### <i class="icon-edit"></i> Include Data .js pada beberapa file anda.
 
-Package BantenSso ini selain menggunakan beberapa module php juga sangat membutuhkan beberapa script javascript untuk menjalankan beberapa core modulenya.
+Package BantenprovSso ini selain menggunakan beberapa module php juga sangat membutuhkan beberapa script javascript untuk menjalankan beberapa core modulenya.
 jadi tambahkan script ini pada file login anda atau file default ketika user tidak login
 
 ```
